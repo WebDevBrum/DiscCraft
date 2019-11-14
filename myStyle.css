@@ -1,0 +1,93 @@
+
+.overlay{
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.white-text-container .btn-primary:hover {
+	background-color: #2B8C95 ;
+	border-color: #2B8C95 ;
+
+}
+
+.white-text-container .btn-primary {
+   border-color: #6739A6 ;
+    background-color: #6739A6;
+    color: #fff;
+
+}
+
+button.btn.btn-primary {
+	border-color: #6739A6 ;
+    background-color: #6739A6;
+    color: #fff;
+}
+
+button.btn.btn-primary:hover {
+	background-color: #2B8C95 ;
+	border-color: #2B8C95 ;
+}
+
+	
+
+.white-text-container h1 {
+	color: white;
+	//*font-size: 120px;*//
+	font-weight: normal;
+	
+	 }
+
+.white-text-container p {
+	color: white;
+	font-size: 32px;
+	
+
+}
+.background-image-container {
+    position: relative;
+    text-align: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding: 12% 0;
+}
+
+.footer-container {
+	background-color: #6739A6;
+    padding: 60px 0;
+    margin-top: 30px;
+	   }
+
+h2:after {
+    content: "";
+    display: block;
+    background-color: #6739A6;
+    height: 3px;
+    margin: 20px 0;
+    width: 70px;
+}
+
+p.text-center {
+	 font-family: 'Kanit', sans-serif;
+}
+
+p {
+	font-family: 'Kanit', sans-serif;
+}
+
+h2.text-center {
+	 font-family: 'Kanit', sans-serif;
+}
+
+h3.text-center {
+	 font-family: 'Kanit', sans-serif;
+}
+
+h3 {
+	 font-family: 'Kanit', sans-serif;
+}
+
+li {
+	font-size: 25px;
+	border-bottom: 3px solid #6739A6;
+
+}
